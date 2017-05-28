@@ -10,7 +10,6 @@ Screenshots below
 ![image](https://github.com/Tim1023/projectPlanner/blob/master/screenshots/department-controller.PNG)
 ![image](https://github.com/Tim1023/projectPlanner/blob/master/screenshots/department-model.PNG)
 ![image](https://github.com/Tim1023/projectPlanner/blob/master/screenshots/edit-plan-responsive.png)
-![image](https://github.com/Tim1023/projectPlanner/blob/master/screenshots/git-extensions.png)
 ![image](https://github.com/Tim1023/projectPlanner/blob/master/screenshots/home-final.png)
 ![image](https://github.com/Tim1023/projectPlanner/blob/master/screenshots/home-page.png)
 ![image](https://github.com/Tim1023/projectPlanner/blob/master/screenshots/home-responsive.png)
