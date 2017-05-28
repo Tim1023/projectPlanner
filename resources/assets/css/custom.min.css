@@ -1,0 +1,31 @@
+.table.table-borderless {
+  margin-bottom: 0;
+}
+.table.table-borderless > thead > tr > td,
+.table.table-borderless > tbody > tr > th,
+.table.table-borderless > tbody > tr > td,
+.table.table-borderless > tfoot > tr > td,
+.table.table-borderless > tfoot > tr > td {
+  border-width: 0;
+}
+.program-semesters .panel,
+.pathway-semesters .panel,
+.program-requirements .panel {
+  border-color: #ddd;
+}
+.program-semesters .panel .panel-heading,
+.pathway-semesters .panel .panel-heading,
+.program-requirements .panel .panel-heading {
+  border-bottom-color: #ddd;
+  padding-top: 20px;
+}
+.program-semesters .panel .panel-footer,
+.pathway-semesters .panel .panel-footer,
+.program-requirements .panel .panel-footer {
+  background-color: #f1f1f1;
+}
+.program-semesters .panel .form-group,
+.pathway-semesters .panel .form-group,
+.program-requirements .panel .form-group {
+  margin-bottom: 0;
+}
